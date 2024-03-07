@@ -1,0 +1,5 @@
+1.duplicate thakle rotation e problem hoi,
+2.direct duplicate kokhono rakhe na,,ekhetre ekta count er frequency array rakhte hobe jodi eker odhik value ashe taile tokhn count er man oi node er jonne barai dite hobe ar normally to sob node er man 1, 1 kore thakbe. jodi kono ekta 
+jodi perfect binary tree hoi taile bst er height hobe log(n) er kacha kachi, abr sob theke kharap bst er height hobe n er kacha kahci,,
+so bst er time complexity 0(h) hiseb kora hoi.
+insert er khetre O(n*h) hobe time complexity.

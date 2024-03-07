@@ -1,0 +1,3 @@
+1. priority_queue -> heap STL
+2. map -> Hashing STL
+3. set -> Balanced Binary Tree STL;

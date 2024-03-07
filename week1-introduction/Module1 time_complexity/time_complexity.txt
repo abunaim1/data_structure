@@ -1,0 +1,38 @@
+0) Time complexity hocche jokhn amra kono code or algorithm likhe thaki tokhn seta onno sob available code or algorithm theke koto tuku better setar measurment kore thake.
+1) Time complexity measurment ta depend kore programe er step er upor. ebong programe er prottek ta line ei ekek ta step. 
+2) Using Big O notation.
+4) Grammer: i)always calculate for worst case.
+           ii)ignore constant value.
+5) Normally complexity ashe loop theke, loop er complexity programe er complexity, jodi kono programe e loop na thake ebong kono function call o na hoi jetar moddhe loop ache sesob programe er time complexity 
+O(1)
+
+6) O(10^7) (10^7 holo input value, N) ei programe ta 1 sec er programe. Normally proti sec e (10^7 ~ 10^8)ta step ekta server execution korte pare. ebong seta kortei tar 1 sec somoy proyjon. orthat proti sec e 10^7 ta step execution korte pare.
+
+7) O(n) er khetre 10^7 er beshi jabe na kintu O(logN) er khetre 10^18 ta kaj kora jai 1 sec e.
+
+8) O(logN) complexity hobe jokhn gun akare loop barbe othoba N er man vag akare kombe. 
+9) (worst case)log2(1000000000000000000) = 60 mane logN er khetre matro 60 ta step cholbe jodio input value 10^18 or 10000000000000000000. kintu etai highst value int er, er theke beshi value dibe na kew, and sei khetreo matro 60 ta step chole 1 sec e, and Normally ekta programe proti sec e 10^7 ta step chalate pare, so O(logN) anek beshi bhalo O(N) er theke. karon O(N) er khetre 10^18 ta value possible ei nah, se ek ek kore bere 10^7 porjonto jete parbe. 
+
+10) O(sqrtN), O(logN) er theke kharap ektu kintu O(N) er theke abr bhalo. karon sqrtN 10^14 porjonto input nite parbe karon tate eta root hoye 10^7 hoye jabe. 
+
+11) Nested loop thakle gun hobe, O(n^2) duita loop er ekta n arekta m hole O(N*M) hobe. otherwise O(N^2).
+12) O(N^2) eita asole O(N) er thekeo baje karon, O(N) 10^7 porjonto step execute korte pare kintu O(N^2) 10^3 er upor step execute korte pare nah, 10^3 ke square korlei toh 10^6 hoye jai.
+
+13) ek nojore sob gulo Complexity: 
+                        O(1) -> No time take
+                        O(logN) -> 10^18
+                        O(sqrtN) -> 10^14
+                        O(N) -> 10^7
+                        O(N^2) or O(N*M) -> 10^3 
+
+14) O(NlogN) eta O(N) er theke kharap but O(N^2) er theke bhalo. 
+
+15) NlogN er khetre total N = 10^6 hote pare er theke beshi input possible nah, karon: log10^6 = 20, tahole NlogN = 10^6 x 20 = 2 * 10^7 ekhane 10^7 ta step execute hote 1 sec lage. so, 2*10^7 ta step execute hote 
+2 sec lagbe. jodi programe e input size 10^6 dewa thake tahole time 2 sec dewa thakbe. otherwise 1 sec time dewa thakle 10^5 input size dewa hobe. hiseb: 10^5 x log10^5 = 10^5 * 16 = 1.6 X 10^6 jeta 1 sec ei possible. amdr sort function er complexity NlogN. Normally array size 10^5 diye thake codeforce or others platform e.
+
+16) O(1) >> O(logN) >> O(sqrtN) >> O(N) >> O(NlogN) >> O(N^2) / O(N*M) >> O(2^n)
+    xxx  >> 10^18   >> 10^14    >> 10^7 >> 10^5     >> 10^3            >> 200
+
+17) Space complexity duita jinish er upor depend kore 1. input Space 2. Auxilary Space ei duitar moddhe jeta maximum setai complexity. maximum 10^6 porjonto size allocate kora jabe online judge er khetre er beshi hole memory limit exceeded ashbe.
+
+summary:--->>   https://phitron.io/ph453/video/ph453-1-9-summary

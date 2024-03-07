@@ -1,0 +1,14 @@
+1) Tree structure hierarchy structure bole.
+2) Hierarchy structure ta dekhte tree er moto tai ei type er data structure ke tree name dewa hoiche.
+3) Real life e computer er File system ekta tree data structure er example.
+4) Array, LinkedList -> Linear Data structure. But A Tree is a NON-Linear data structure.
+5) Real life use of Binary Tree -> AI/Machine Learning er Decistion Tree ache jeta toiri hoi Binary Tree diye.
+6) Heap Sort, Binary Search er visual korte Binary Tree use hoi.
+7) Even Binary Tree diye Compiler er Syntax Tree o toiri hoi.
+8) Order or Traverse 2 type:
+    i) Depth (govir) wise 
+    ii) Level (tola) wise 
+9) Depth wise Traverse(order): 
+    i) pre-order   -> root - left - right
+    ii) post-order -> left - right - root
+    iii) In- order -> left - root - right

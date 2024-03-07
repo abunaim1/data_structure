@@ -1,0 +1,6 @@
+compelete binary tree to array representation:
+kono ekta node er left child pawar jonne -> (i*2+1)
+kono ekta node er right chile pwar jonne -> (i*2+2)
+ei duita sutro parent theke child e jabar jonne..
+jodi chile theke parent e jaite chai tiale -> (i-1)/2 ei ektai sutro. 
+ebong esob khetre if and only if tree would be compelete binary tree or perfect binary tree.

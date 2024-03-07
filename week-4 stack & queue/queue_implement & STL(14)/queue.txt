@@ -1,0 +1,14 @@
+Queue - line 
+First In First Out (FIFO)
+
+        Insert   Delete
+Array   O(1)      O(n)       
+Singly  O(1)      O(1)    
+Doubly  O(1)      O(1)
+Then use Singly or Doubly.
+
+if we copy one queue to another in the order it is removed we will get same get the same queue.
+if we copy one stack to another in the order it is removed we will get the reverse of the stack.
+Why didn’t we use an array to implement the queue? time complexity of removing the first element is bad.
+
+Important problem: Valid Parenthesis,

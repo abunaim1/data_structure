@@ -1,0 +1,6 @@
+1. what is stack?
+ans: Stack is a data stucture that follows LIFO (Last In First Out) techniques, which means data is inserted at the TOP and removed from the Top.
+
+2. Stack is called ADT that means Abstract Data stucture. It is also called Higher Level data stucture. some lower level data stucture (container data stucture) is linked list, array, etc.
+
+3. stack ekta concept notun kono data stucture nah (Abstract data stucture bole),, jodi surutei emn kono data dorkar hoi jeta sobar last e ashche sei khetre stack use kori amra.
